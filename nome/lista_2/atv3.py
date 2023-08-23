@@ -22,4 +22,4 @@ if idade_pessoa_1 > idade_pessoa_2:
 elif idade_pessoa_2 > idade_pessoa_1:
     print(f"a{nome_2} e mais velha do que {nome_1}")
 elif idade_pessoa_1 == idade_pessoa_2:
-    print(f"as idades sao iguais")
+    print("as idades sao iguais")
